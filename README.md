@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Pedidos de Pizzas 🍕
 
-O Sistema de Gerenciamento de Pedidos foi desenvolvido com o objetivo de otimizar e centralizar os pedidos de pizzas, permitindo uma experiência personalizada de escolha e monitoramento de cada etapa do pedido.
+O Sistema de Gerenciamento de Pedidos foi desenvolvido para uma pessoas fictícia: João Carmona. O sistema tem o objetivo de otimizar e centralizar os pedidos de pizzas, permitindo uma experiência personalizada de escolha e monitoramento de cada etapa do pedido.
 
 ## Funcionalidades:
 
