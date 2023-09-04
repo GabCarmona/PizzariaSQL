@@ -40,4 +40,8 @@ O Sistema de Gerenciamento de Pedidos foi desenvolvido com o objetivo de otimiza
 
 ![image](https://github.com/GabCarmona/PizzariaSQL/assets/118035572/431631bf-317e-40d9-9a47-704ad850a388)
 
+#### Segue Vídeo de funcionamento:
+
+https://github.com/GabCarmona/PizzariaSQL/assets/118035572/a9a185f0-f396-4898-8b34-c0f7d99c55f0
+
 
